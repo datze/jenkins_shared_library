@@ -1,5 +1,5 @@
 # Shared Library For Jenkins
-##(jenkins_sharedlibrary)
+## (jenkins_sharedlibrary)
 
 This is a basic shared library for Jenkins (see [Jenkins docu](https://jenkins.io/doc/book/pipeline/shared-libraries/)).
 
